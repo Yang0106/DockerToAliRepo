@@ -19,3 +19,6 @@ nacos/nacos-server:v3.0.1
 registry.k8s.io/ingress-nginx/controller:v1.11.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.1
 registry.k8s.io/defaultbackend-amd64:1.5
+docker.io/calico/cni:v3.28.2
+docker.io/calico/node:v3.28.2
+docker.io/calico/kube-controllers:v3.28.2
