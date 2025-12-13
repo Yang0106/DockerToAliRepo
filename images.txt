@@ -1,1 +1,1 @@
-grafana:v10.4.7
+grafana:10.4.7
