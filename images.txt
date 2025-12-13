@@ -1,4 +1,1 @@
-prom/prometheus:v2.53.1
-prom/node-exporter:v1.10.2
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.17.0
 grafana/grafana:v10.4.7
