@@ -1,3 +1,2 @@
-elasticsearch:8.18.8
-kibana:8.18.8
-fluent/fluent-bit:4.0.4
+grafana/loki:3.6.3
+grafana/promtail:3.6.3
